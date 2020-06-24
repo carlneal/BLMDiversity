@@ -4,7 +4,8 @@ BLACK LIVES MATTER!
 
 -->
 
-# devdiv4blacklives
+# BLMDiversity
+
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href=""><img width="128px" src="blmvs.png" alt="DevDiv 4 Black Lives"/></a></td>
 <td>
@@ -13,7 +14,7 @@ BLACK LIVES MATTER!
 <strong><a href="https://github.com/carlneal/BLMDiversity">Learn more. Listen More. Do More!</a></strong></i>
 </td>
 </tr></table>
-**## Credit to: https://github.com/catycaldwell/devdiv4blacklives for creating this! ##**
+** Credit to: https://github.com/catycaldwell/devdiv4blacklives for creating this! **
 
 This repository offers the entire DevDiv community a starting point to educate themselves on the challenges created by systemic racial injustice. This is a collaborative effort, so please add these resources. Use these materials, add others that aren't included, and remember to listen to Black friends and colleagues about what it is _they_ need for support.
 
