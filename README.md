@@ -2,7 +2,6 @@
 Please share broadly and add additional resources.
 BLACK LIVES MATTER!
 
-Credit to: https://github.com/catycaldwell/devdiv4blacklives for creating this!
 -->
 
 # devdiv4blacklives
@@ -14,6 +13,8 @@ Credit to: https://github.com/catycaldwell/devdiv4blacklives for creating this!
 <strong><a href="https://catycaldwell.github.io">Learn more. Listen More. Do More!</a></strong></i>
 </td>
 </tr></table>
+Credit to: https://github.com/catycaldwell/devdiv4blacklives for creating this!
+
 This repository offers the entire DevDiv community a starting point to educate themselves on the challenges created by systemic racial injustice. This is a collaborative effort, so please add these resources. Use these materials, add others that aren't included, and remember to listen to Black friends and colleagues about what it is _they_ need for support.
 
 Icons for adding Resources
